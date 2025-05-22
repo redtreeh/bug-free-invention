@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+A novice to the machine: Welcome to my blog
 ---
 
